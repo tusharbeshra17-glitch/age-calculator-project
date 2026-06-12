@@ -1,20 +1,29 @@
 # 🎂 Age Calculator
 
-A Python-based age calculator that determines a user's age from their date of birth.
+A beginner-friendly Python Age Calculator that calculates the user's age, validates birth date input, and displays the number of days remaining until the next birthday. 📅✨
 
 ## ✨ Features
 
-* 📅 Calculates age based on birth date
-* 🐍 Uses Python's built-in date module
-* 💻 Simple and easy-to-use command-line interface
+✅ Calculate current age
+✅ Validate birth date input
+✅ Handle invalid dates gracefully
+✅ Show days remaining until next birthday ⏳
+✅ Display next birthday date 🎉
 
-## ⚙️ Requirements
+## 🛠️ Technologies Used
 
-* Python 3.x
+🐍 Python
+📆 datetime Module
 
-## 🚀 Usage
+## 📸 Screenshot
 
-Run the program and enter your birth year, month, and day when prompted.
+![Age Calculator Screenshot](screenshot.png)
+
+## 🚀 How to Run
+
+1️⃣ Download or clone the repository
+2️⃣ Open the project folder
+3️⃣ Run the Python file
 
 ```bash
 python age_calculator.py
@@ -22,4 +31,4 @@ python age_calculator.py
 
 ## 👨‍💻 Author
 
-Tushar
+🚀 Tushar
