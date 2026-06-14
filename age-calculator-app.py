@@ -46,11 +46,28 @@ else:
 
 Days_left = (next_Birthday - today).days
 
-
-print(f"\n🎂 Your Age is {age} years.") 
+print("\n")
+print(" ╔══════════════════════════════════════╗")
+print(f"║ \n🎂 Your Age is {age} years.        ║")
+print(" ╚══════════════════════════════════════╝")
+ 
 
 if Days_left == 0:
-    print("🎉 Happy Birthday!")
+    
+    print("\n")
+    print(" ╔══════════════════════════════════════╗")
+    print(f"║      \n 🎉 Happy Birthday!           ║")
+    print(" ╚══════════════════════════════════════╝")
+ 
+    
 else:
-    print(f"🎉 Days until next birthday: {Days_left}")
-print(f"📅 Next Birthday: {next_Birthday}")
+    print("\n")
+    print(" ╔════════════════════════════════════════════╗")
+    print(f"║🎉 Days until next birthday: {Days_left}    ║")
+    print(" ╚════════════════════════════════════════════╝")
+ 
+print("\n")
+print(" ╔════════════════════════════════════════════╗")
+print(f"║    📅 Next Birthday: {next_Birthday}       ║")
+print(" ╚════════════════════════════════════════════╝")
+
