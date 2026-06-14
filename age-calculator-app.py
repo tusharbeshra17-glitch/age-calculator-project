@@ -1,6 +1,9 @@
 from datetime import date
 
-print("======AGE CALCULATOR======")
+print("\n")
+print("╔══════════════════════════════════════╗")
+print("║           🎂 AGE CALCULATOR          ║")
+print("╚══════════════════════════════════════╝")
 
 Birth_day = int(input("Enter Birth Day: "))
 Birth_month = int(input("Enter Birth Month: "))
@@ -10,4 +13,11 @@ today = date.today()
 
 age = today.year - Birth_year
 
-print(f"\n🎂 Your Age is {age} years.")
+print("\n")
+print(" ╔══════════════════════════════════════╗")
+print(" ║              RESULT                  ║")
+print(" ╠══════════════════════════════════════╣")
+print(f"║  🎉 Your Age is : {age} Years        ║")       
+print(" ╚══════════════════════════════════════╝")
+
+print("\n✨ Thank You For Using Age Calculator ✨")
