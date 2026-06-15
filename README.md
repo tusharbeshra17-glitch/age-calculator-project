@@ -17,7 +17,7 @@ A beginner-friendly Python Age Calculator that calculates the user's age, valida
 
 ## 📸 Screenshot
 
-![Age Calculator Screenshot](screenshot.png)
+![Age Calculator Screenshot](IMG-20260614-WA0007.jpg)
 
 ## 🚀 How to Run
 
