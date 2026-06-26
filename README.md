@@ -1,19 +1,30 @@
-# 🎂 Age Calculator
+# 🐍 Python Quiz Game
 
-A beginner-friendly Python Age Calculator that calculates the user's age, validates birth date input, and displays the number of days remaining until the next birthday. 📅✨
+A beginner-friendly Python Quiz Game that tests Python programming knowledge through multiple difficulty levels, randomized questions, high score tracking, and a replay option. 🎯🚀
 
 ## ✨ Features
 
-✅ Calculate current age
-✅ Validate birth date input
-✅ Handle invalid dates gracefully
-✅ Show days remaining until next birthday ⏳
-✅ Display next birthday date 🎉
+✅ Three Difficulty Levels (Easy, Medium, Hard)
+✅ Randomized Questions Every Game 🔀
+✅ High Score Tracking 🏆
+✅ Play Again Option 🔁
+✅ Simple Terminal-Based Interface 💻
+✅ Instant Score Display 📊
+✅ Beginner-Friendly Code 📚
 
 ## 🛠️ Technologies Used
 
 🐍 Python
-📆 datetime Module
+
+🎲 random Module
+
+⚙️ Functions
+
+📋 Lists
+
+🔁 Loops
+
+🧩 Match-Case
 
 ## 📸 Screenshot
 
