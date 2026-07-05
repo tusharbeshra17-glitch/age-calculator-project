@@ -1,30 +1,32 @@
-# 🐍 Python Quiz Game
+# 🎂 Age Calculator
 
-A beginner-friendly Python Quiz Game that tests Python programming knowledge through multiple difficulty levels, randomized questions, high score tracking, and a replay option. 🎯🚀
+A Python program to calculate your age, check if today is your birthday 🎉, and show how many days are left until your next birthday 📅.  
+This project is written in **Object-Oriented Programming (OOP)** style for clean and reusable code.
+
+---
 
 ## ✨ Features
+- ✅ Validates user input (day, month, year).
+- 🎂 Calculates current age in years.
+- 🎉 Detects if today is your birthday.
+- ⏳ Shows days remaining until the next birthday.
+- 📅 Displays the exact date of your next birthday.
+- 🧑‍💻 Beginner-friendly and easy to understand.
 
-✅ Three Difficulty Levels (Easy, Medium, Hard)
-✅ Randomized Questions Every Game 🔀
-✅ High Score Tracking 🏆
-✅ Play Again Option 🔁
-✅ Simple Terminal-Based Interface 💻
-✅ Instant Score Display 📊
-✅ Beginner-Friendly Code 📚
+---
 
 ## 🛠️ Technologies Used
+- 🐍 **Python 3**
+- 📆 **datetime module** for date calculations
+- 🏗️ Object-Oriented Programming (OOP)
 
-🐍 Python
+---
 
-🎲 random Module
+## 🚀 How to Run
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/your-username/age-calculator.git
 
-⚙️ Functions
-
-📋 Lists
-
-🔁 Loops
-
-🧩 Match-Case
 
 ## 📸 Screenshot
 
